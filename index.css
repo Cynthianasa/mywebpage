@@ -1,0 +1,42 @@
+body{
+    background-color: black
+}
+h1{
+    color: green
+}
+h2{
+    color:  blue;
+}
+h3{
+    color: yellow;
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+p{
+    color: aqua;
+}
+hr{
+    border: 2px solid;
+    color: bisque;
+}
+.introduction{
+    color: aliceblue;
+}
+.explanation{
+    color: blueviolet;
+}
+.top{
+    background-color: beige;
+}
+form{
+    background-color: blue;
+    font-size: medium;
+    font-weight: 20px;
+}
+button{
+    color: brown;
+    border: 50px;
+}
